@@ -1,5 +1,7 @@
-👋 Hi, I’m Cindy
+👋 Hi, I’m Cindy 
+
 👀 I’m interested in front end develop & Design
+
 🌱 I’m currently learning Typescript & Frameworks
 
 <!---
