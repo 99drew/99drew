@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cindy
-- 👀 I’m interested in front end develop
-- 🌱 I’m currently learning Javascript
+👋 Hi, I’m Cindy
+👀 I’m interested in front end develop & Design
+🌱 I’m currently learning Typescript & Frameworks
 
 <!---
 99drew/99drew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
