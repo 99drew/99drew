@@ -1,6 +1,6 @@
 👋 Hi, I’m Cindy 
 
-👀 I’m interested in front end develop & Design
+👀 I’m interested in Front-End Develop & Design
 
 🌱 I’m currently learning Typescript & Frameworks
 
